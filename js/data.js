@@ -1,0 +1,80 @@
+let vinos = [
+  {
+    marca: "Zuccardi",
+    cepa: "Cabernet",
+    precio: 4100,
+    año: 2018,
+  },
+  {
+    marca: "Luigi Bosca",
+    cepa: "Cabernet",
+    precio: 3000,
+    año: 2019,
+  },
+  {
+    marca: "Luigi Bosca",
+    cepa: "Malbec",
+    precio: 3500,
+    año: 2020,
+  },
+  {
+    marca: "Trumpeter",
+    cepa: "Malbec",
+    precio: 2500,
+    año: 2018,
+  },
+  {
+    marca: "Trumpeter",
+    cepa: "Syrah",
+    precio: 2900,
+    año: 2018,
+  },
+  {
+    marca: "Luigi Bosca",
+    cepa: "Chardonnay",
+    precio: 2100,
+    año: 2016,
+  },
+  {
+    marca: "Domaine Bousquet",
+    cepa: "Cabernet Franc",
+    precio: 3500,
+    año: 2018,
+  },
+  {
+    marca: "Escorihuela Gascon",
+    cepa: "Cabernet",
+    precio: 4000,
+    año: 2015,
+  },
+  {
+    marca: "Zuccardi",
+    cepa: "Bonarda",
+    precio: 3400,
+    año: 2016,
+  },
+  {
+    marca: "Escorihuela Gascon",
+    cepa: "Syrah",
+    precio: 4000,
+    año: 2015,
+  },
+  {
+    marca: "Zuccardi",
+    cepa: "Malbec",
+    precio: 3900,
+    año: 2020,
+  },
+  {
+    marca: "Domaine Bousquet",
+    cepa: "Malbec",
+    precio: 3700,
+    año: 2016,
+  },
+  {
+    marca: "Escorihuela Gascon",
+    cepa: "Cabernet Franc",
+    precio: 4000,
+    año: 2018,
+  },
+];
